@@ -17,6 +17,8 @@ Height= rem
 Type = rem 
 Graphics = pixels (px)  (e.g. a border would be a "graphic") 
 
+*/
+
 /* Controls the size of the viewport */
 
 @-moz-viewport { width: device-width; scale: 1; } /* can open in Firefox */
