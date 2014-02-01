@@ -20,7 +20,7 @@ Graphics = pixels (px)  (e.g. a border would be a "graphic")
 /* Controls the size of the viewport */
 
 @-moz-viewport { width: device-width; scale: 1; } /* can open in Firefox */
-@-ms-viewport { width: device-width; scale: 1; } /* can open in internet explorer
+@-ms-viewport { width: device-width; scale: 1; } /* can open in internet explorer */
 @-o-viewport { width: device-width; scale: 1; } /* Opera */
 @-webkit-viewport { width: device-width; scale: 1; } /*Safari & Chrome */
 @viewport { width: device-width; scale: 1; } /* W3C Standard */
